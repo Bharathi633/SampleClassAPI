@@ -16,6 +16,20 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void test8() {
+		// TODO Auto-generated method stub
+
+	}
 
 
+	private void test9() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void test10() {
+		// TODO Auto-generated method stub
+
+	}
 }
