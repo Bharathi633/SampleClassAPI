@@ -18,6 +18,17 @@ public class Sample {
 	}
 	
 	private void test8() {
+		
+	}
+	private void test4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void test5() {
+		// TODO Auto-generated method stub
+
+	}
+	private void test6() {
 		// TODO Auto-generated method stub
 
 	}
