@@ -17,6 +17,9 @@ public class Sample {
 
 	}
 	
+	private void test8() {
+		
+	}
 	private void test4() {
 		// TODO Auto-generated method stub
 
@@ -31,4 +34,13 @@ public class Sample {
 	}
 
 
+	private void test9() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void test10() {
+		// TODO Auto-generated method stub
+
+	}
 }
